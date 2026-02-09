@@ -1,0 +1,3 @@
+# Exported for Railway/Railpack compatibility. Prefer: uv sync
+httpx>=0.28.1
+mcp[cli]>=1.21.0
